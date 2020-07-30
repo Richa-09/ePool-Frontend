@@ -1,0 +1,18 @@
+.wait {
+    text-align: center;
+    color: black;
+    background-color: yellow;
+    border-radius: 0.5rem;
+}
+.approved {
+    text-align: center;
+    color: black;
+    background-color: green;
+    border-radius: 0.5rem;
+}
+.cancelled {
+    text-align: center;
+    color: black;
+    background-color: red;
+    border-radius: 0.5rem;
+}
